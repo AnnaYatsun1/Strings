@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03ad2c88-d861-4f4f-bd93-3c6976485ab1" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/../YatsunAnnaStrings/.idea/compiler.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../YatsunAnnaStrings/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../YatsunAnnaStrings/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../YatsunAnnaStrings/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../YatsunAnnaStrings/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../YatsunAnnaStrings/YatsunAnnaStrings.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../YatsunAnnaStrings/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../YatsunAnnaStrings/src/main/java/DeutscheNumberToWords.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../YatsunAnnaStrings/src/main/java/EnglishNumberToWords.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../YatsunAnnaStrings/src/main/java/UkraingNumberToWords.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../YatsunAnnaStrings/src/main/java/AllInformation.java" />
+      <change beforePath="$PROJECT_DIR$/../YatsunAnnaStrings/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../YatsunAnnaStrings/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../YatsunAnnaStrings/src/main/java/UkraingNumberToWords.java" afterPath="$PROJECT_DIR$/../YatsunAnnaStrings/src/main/java/UkraingNumberToWords.java" />
     </list>
     <ignored path="$PROJECT_DIR$/../YatsunAnnaStrings/out/" />
     <ignored path="$PROJECT_DIR$/../YatsunAnnaStrings/target/" />
@@ -37,8 +30,8 @@
       <file leaf-file-name="EnglishNumberToWords.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../YatsunAnnaStrings/src/main/java/EnglishNumberToWords.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="728">
-              <caret line="132" column="1" lean-forward="false" selection-start-line="132" selection-start-column="1" selection-end-line="132" selection-end-column="1" />
+            <state relative-caret-position="340">
+              <caret line="107" column="20" lean-forward="true" selection-start-line="107" selection-start-column="20" selection-end-line="107" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -60,11 +53,35 @@
       <file leaf-file-name="UkraingNumberToWords.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../YatsunAnnaStrings/src/main/java/UkraingNumberToWords.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="175" column="22" lean-forward="true" selection-start-line="175" selection-start-column="22" selection-end-line="175" selection-end-column="22" />
+            <state relative-caret-position="2550">
+              <caret line="102" column="0" lean-forward="true" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AllInformation.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../YatsunAnnaStrings/src/main/java/AllInformation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="558">
+              <caret line="146" column="5" lean-forward="false" selection-start-line="146" selection-start-column="5" selection-end-line="146" selection-end-column="5" />
               <folding>
-                <element signature="e#3735#3736#0" expanded="true" />
-                <element signature="e#3819#3820#0" expanded="true" />
+                <element signature="e#1750#1751#0" expanded="true" />
+                <element signature="e#1778#1779#0" expanded="true" />
+                <element signature="e#2668#2669#0" expanded="true" />
+                <element signature="e#2695#2696#0" expanded="true" />
+                <element signature="e#2776#2777#0" expanded="true" />
+                <element signature="e#2805#2806#0" expanded="true" />
+                <element signature="e#2877#2878#0" expanded="true" />
+                <element signature="e#2906#2907#0" expanded="true" />
+                <element signature="e#3708#3709#0" expanded="true" />
+                <element signature="e#3747#3748#0" expanded="true" />
+                <element signature="e#3783#3784#0" expanded="true" />
+                <element signature="e#3822#3823#0" expanded="true" />
+                <element signature="e#3866#3867#0" expanded="true" />
+                <element signature="e#3913#3914#0" expanded="true" />
+                <element signature="e#3950#3951#0" expanded="true" />
+                <element signature="e#3990#3991#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -92,6 +109,7 @@
       <list>
         <option value="$PROJECT_DIR$/../YatsunAnnaStrings/src/main/java/EnglishNumberToWords.java" />
         <option value="$PROJECT_DIR$/../YatsunAnnaStrings/src/main/java/DeutscheNumberToWords.java" />
+        <option value="$PROJECT_DIR$/../YatsunAnnaStrings/src/main/java/AllInformation.java" />
         <option value="$PROJECT_DIR$/../YatsunAnnaStrings/src/main/java/UkraingNumberToWords.java" />
       </list>
     </option>
@@ -164,6 +182,11 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -277,15 +300,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1533126424027</updated>
-      <workItem from="1533126427276" duration="234000" />
+      <workItem from="1533126427276" duration="3821000" />
     </task>
+    <task id="LOCAL-00001" summary="commit 3 clasess">
+      <created>1533126693176</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1533126693176</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="234000" />
+    <option name="totallyTimeSpent" value="3821000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -297,7 +329,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33056873" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1978673" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24972972" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -323,6 +355,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit 3 clasess" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 3 clasess" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -332,14 +368,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../YatsunAnnaStrings/src/main/java/EnglishNumberToWords.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="728">
-          <caret line="132" column="1" lean-forward="false" selection-start-line="132" selection-start-column="1" selection-end-line="132" selection-end-column="1" />
           <folding />
         </state>
       </provider>
@@ -355,14 +383,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../YatsunAnnaStrings/src/main/java/EnglishNumberToWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="107" column="20" lean-forward="true" selection-start-line="107" selection-start-column="20" selection-end-line="107" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../YatsunAnnaStrings/src/main/java/AllInformation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="146" column="5" lean-forward="false" selection-start-line="146" selection-start-column="5" selection-end-line="146" selection-end-column="5" />
+          <folding>
+            <element signature="e#1750#1751#0" expanded="true" />
+            <element signature="e#1778#1779#0" expanded="true" />
+            <element signature="e#2668#2669#0" expanded="true" />
+            <element signature="e#2695#2696#0" expanded="true" />
+            <element signature="e#2776#2777#0" expanded="true" />
+            <element signature="e#2805#2806#0" expanded="true" />
+            <element signature="e#2877#2878#0" expanded="true" />
+            <element signature="e#2906#2907#0" expanded="true" />
+            <element signature="e#3708#3709#0" expanded="true" />
+            <element signature="e#3747#3748#0" expanded="true" />
+            <element signature="e#3783#3784#0" expanded="true" />
+            <element signature="e#3822#3823#0" expanded="true" />
+            <element signature="e#3866#3867#0" expanded="true" />
+            <element signature="e#3913#3914#0" expanded="true" />
+            <element signature="e#3950#3951#0" expanded="true" />
+            <element signature="e#3990#3991#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../YatsunAnnaStrings/src/main/java/UkraingNumberToWords.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="175" column="22" lean-forward="true" selection-start-line="175" selection-start-column="22" selection-end-line="175" selection-end-column="22" />
-          <folding>
-            <element signature="e#3735#3736#0" expanded="true" />
-            <element signature="e#3819#3820#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="2550">
+          <caret line="102" column="0" lean-forward="true" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
