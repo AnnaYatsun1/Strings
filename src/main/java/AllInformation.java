@@ -13,6 +13,7 @@ public class AllInformation {
     static String million=" мiльйон";
     static String sufictToString="и";
     static String sufictToString2="iв";
+    static String nulls ="";
     public static final String[] tensNamesUkr = {
             "",
             " десять",
@@ -63,14 +64,14 @@ public class AllInformation {
             " дев'ятьсот"
 
     };
-    public static   String soFar;
+    public static   String stringNumber;
     static String convertLessThanOneThousand(int number){
-        return soFar;
+        return stringNumber;
     }
     public static String convert(long number) {
 
         if (number == 0) {
-            return "zero";
+            return nulls;
         }
 
         String snumber = Long.toString(number);

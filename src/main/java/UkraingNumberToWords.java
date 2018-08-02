@@ -1,21 +1,20 @@
-import java.text.DecimalFormat;
 public class UkraingNumberToWords extends AllInformation {
     public static String convertLessThanOneThousand(int number) {
-        String soFar;
+ 
 
         if (number % 100 < 20){
-            soFar = numNamesUkr[number % 100];
+            AllInformation.stringNumber = numNamesUkr[number % 100];
             number /= 100;
         }
         else {
-            soFar = numNamesUkr[number % 10];
+            AllInformation.stringNumber = numNamesUkr[number % 10];
             number /= 10;
 
-            soFar = tensNamesUkr[number % 10] + soFar;
+            AllInformation.stringNumber = tensNamesUkr[number % 10] + AllInformation.stringNumber;
             number /= 10;
         }
-        if (number == 0) return soFar;
-        return numNames2Ukr[number]  + soFar;
+        if (number == 0) return AllInformation.stringNumber;
+        return numNames2Ukr[number]  + stringNumber;
     }
 
     public static String getStringBilions(int billions) {
